@@ -37,12 +37,6 @@ EduPulse addresses these challenges by implementing the following key features:
 - **Comprehensive Support**: 24/7 chatbot and responsive customer service to assist students with any queries.
 - **Wide Range of Courses**: A diverse selection of courses across multiple fields to cater to students' interests and career goals.
 
-## Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Azure Core Services**: Web App Services, Storage Accounts
-- **Azure AI Services**: AI Language Service, AI Bot Service
-
 ## Screenshots
 
 [![Screenshot-2024-06-15-135114.png](https://i.postimg.cc/SKQfVyVj/Screenshot-2024-06-15-135114.png)](https://postimg.cc/cvj3LGpN)
