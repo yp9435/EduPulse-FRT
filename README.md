@@ -4,8 +4,8 @@ Welcome to EduPulse, an inclusive and adaptive online learning platform created 
 
 ## Project Links
 
-- **Project Site**: [EduPulse Website](https://your-project-site-link)
-- **Project Demo Video**: [EduPulse Demo](https://your-demo-video-link)
+- **Project Site**: [EduPulse Website](https://edupulsefrt.azurewebsites.net)
+- **Project Demo Video**: [EduPulse Demo](https://youtu.be/oj-wi1J-nKE)
 
 ## Project Overview
 
