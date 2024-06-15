@@ -33,7 +33,7 @@ EduPulse addresses these challenges by implementing the following key features:
 
 ## Screenshots
 
-![Screenshot 1](https://your-screenshot1-link)
+![Screenshot 1](https://ibb.co/z4Dg126)
 ![Screenshot 2](https://your-screenshot2-link)
 ![Screenshot 3](https://your-screenshot3-link)
 
