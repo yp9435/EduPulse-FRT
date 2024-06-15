@@ -48,6 +48,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Your Name - [@yp9435](https://github.com/yp9435) - npyeshaswi@gmail.com
+
 Project Link: [EduPulse-FRT](https://github.com/yp9435/EduPulse-FRT)
 
  
