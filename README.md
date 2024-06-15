@@ -47,6 +47,8 @@ EduPulse addresses these challenges by implementing the following key features:
 [![Screenshot-2024-06-15-171906.png](https://i.postimg.cc/wvkfgzcm/Screenshot-2024-06-15-171906.png)](https://postimg.cc/62yLfDPW)
 [![Screenshot-2024-06-15-171938.png](https://i.postimg.cc/d3tW0f4S/Screenshot-2024-06-15-171938.png)](https://postimg.cc/7Gd1sKvg)
 
+
+
 ## Website Screenshots
 
 [![Screenshot-2024-06-15-135114.png](https://i.postimg.cc/SKQfVyVj/Screenshot-2024-06-15-135114.png)](https://postimg.cc/cvj3LGpN)
