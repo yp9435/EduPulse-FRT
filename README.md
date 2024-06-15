@@ -5,7 +5,6 @@
 ## Project Links
 
 - **Project Site**: [EduPulse Website](https://edupulsefrt.azurewebsites.net)
-- **Project Demo Video**: [EduPulse Demo](https://youtu.be/oj-wi1J-nKE)
 
 ## Project Overview
 
