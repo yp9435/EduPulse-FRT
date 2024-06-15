@@ -8,7 +8,7 @@
 
 ## Microsoft Azure
 
- We Used Microsoft Azure's powerful AI and cloud services to enhance EduPulse's functionality and user experience:
+ Used Microsoft Azure's powerful AI and cloud services to enhance EduPulse's functionality and user experience:
 
 - **Azure Core Services**: Utilized Web App Services and Storage Accounts to ensure a scalable, reliable, and secure hosting environment for EduPulse.
 - **Azure AI Services**: Implemented AI Language Service and AI Bot Service to create a custom question and answer chatbot specifically for EduPulse. This chatbot addresses users' needs effectively, providing instant support and guidance throughout their learning journey.
