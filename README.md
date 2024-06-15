@@ -43,6 +43,12 @@ EduPulse addresses these challenges by implementing the following key features:
 [![Screenshot-2024-06-15-170142.png](https://i.postimg.cc/7h2yLp5n/Screenshot-2024-06-15-170142.png)](https://postimg.cc/5Qbr7KqX)
 [![Screenshot-2024-06-15-170252.png](https://i.postimg.cc/t478RK8Z/Screenshot-2024-06-15-170252.png)](https://postimg.cc/w18w0Gqg)
 [![Screenshot-2024-06-15-170327.png](https://i.postimg.cc/0NDWbPnQ/Screenshot-2024-06-15-170327.png)](https://postimg.cc/Z9YFQk1t)
+[![Screenshot-2024-06-15-171838.png](https://i.postimg.cc/66fJpJ5z/Screenshot-2024-06-15-171838.png)](https://postimg.cc/jC2kM1fJ)
+[![Screenshot-2024-06-15-171906.png](https://i.postimg.cc/wvkfgzcm/Screenshot-2024-06-15-171906.png)](https://postimg.cc/62yLfDPW)
+[![Screenshot-2024-06-15-171938.png](https://i.postimg.cc/d3tW0f4S/Screenshot-2024-06-15-171938.png)](https://postimg.cc/7Gd1sKvg)
+
+## Website Screenshots
+
 [![Screenshot-2024-06-15-135114.png](https://i.postimg.cc/SKQfVyVj/Screenshot-2024-06-15-135114.png)](https://postimg.cc/cvj3LGpN)
 [![Screenshot-2024-06-15-140101.png](https://i.postimg.cc/sDYTjHNP/Screenshot-2024-06-15-140101.png)](https://postimg.cc/YhS68Rkj)
 [![Screenshot-2024-06-15-140129.png](https://i.postimg.cc/W4BZJTDd/Screenshot-2024-06-15-140129.png)](https://postimg.cc/yJTxMqyK)
