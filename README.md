@@ -6,6 +6,19 @@
 
 - **Project Site**: [EduPulse Website](https://edupulsefrt.azurewebsites.net)
 
+## Microsoft Azure
+
+ We Used Microsoft Azure's powerful AI and cloud services to enhance EduPulse's functionality and user experience:
+
+- **Azure Core Services**: Utilized Web App Services and Storage Accounts to ensure a scalable, reliable, and secure hosting environment for EduPulse.
+- **Azure AI Services**: Implemented AI Language Service and AI Bot Service to create a custom question and answer chatbot specifically for EduPulse. This chatbot addresses users' needs effectively, providing instant support and guidance throughout their learning journey.
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Azure Core Services**: Web App Services, Storage Accounts
+- **Azure AI Services**: AI Language Service, AI Bot Service
+
 ## Project Overview
 
 EduPulse is an online course platform that provides high-quality courses across various fields. Our mission is to ensure that education is accessible, flexible, and engaging for all students, regardless of their unique needs or circumstances.
