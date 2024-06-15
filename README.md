@@ -25,7 +25,7 @@ EduPulse is an online course platform that provides high-quality courses across 
 
 ### Problem Statement
 
-Many existing online education platforms fail to accommodate the diverse needs of students, particularly those requiring different learning modes, accessibility features, and personalized educational experiences. This gap leaves a significant portion of the student population underserved, including those with disabilities or specific learning preferences.
+Many Institutions and Universities fail to accommodate the diverse needs of students, particularly those requiring different learning modes, accessibility features, and personalized educational experiences. This gap leaves a significant portion of the student population underserved, including those with disabilities or specific learning preferences.
 
 ### Solution
 
