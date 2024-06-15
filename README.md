@@ -1,6 +1,6 @@
 # EduPulse - Microsoft Future Ready Talent Program
 
-Welcome to EduPulse, an inclusive and adaptive online learning platform created as part of the Microsoft Future Ready Talent program. EduPulse is designed to make education accessible and personalized for all students, addressing the diverse needs of learners with varying requirements.
+**EduPulse**, an inclusive and adaptive online learning platform created as part of the **Microsoft Future Ready Talent Program**. EduPulse is designed to make education accessible and personalized for all students, addressing the diverse needs of learners with varying requirements.
 
 ## Project Links
 
